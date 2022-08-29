@@ -1,2 +1,2 @@
-<a href="https://growingwithdata.netlify.app/">
+<a href="https://growingwithdata.netlify.app/">Live Preview</a>
 
